@@ -5,4 +5,4 @@ portfolio : https://debkanta-12102002.github.io/CODSOFT_Project/portfolio
 
 Calculator : https://debkanta-12102002.github.io/CODSOFT_Project/Calculator
 
-To-Do list : https://debkanta-12102002.github.io/CODSOFT_Project/To-Dolist
+To-Do list : https://debkanta-12102002.github.io/CODSOFT_Project/To-do
